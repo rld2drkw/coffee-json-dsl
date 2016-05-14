@@ -1,6 +1,6 @@
 {
   "name": "coffee-json-dsl",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A tiny framework to define DSL to generate JSON using coffee-script",
   "main": "src/index.js",
   "scripts": {
